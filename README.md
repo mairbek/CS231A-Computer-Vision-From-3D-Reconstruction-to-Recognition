@@ -1,4 +1,4 @@
-# CS231A-Computer-Vision-From-3D-Reconstruction-to-Recognition
+# CS231A Computer Vision From 3D Reconstruction to Recognition
 
 3D image course homework from [cs231A](http://web.stanford.edu/class/cs231a/index.html).
 
