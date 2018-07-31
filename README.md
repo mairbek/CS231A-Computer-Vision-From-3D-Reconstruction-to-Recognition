@@ -6,5 +6,5 @@
   
   2. [hw1](https://github.com/philiphzcx/CS231A-Computer-Vision-From-3D-Reconstruction-to-Recognition/tree/master/ps1_code)  Affine Camera Calibration, Single View Geometry
   
-  3. hw2  Fundamental Matrix Estimation, Image Rectification, Affine Structure from Motion
+  3. [hw2](https://github.com/philiphzcx/CS231A-Computer-Vision-From-3D-Reconstruction-to-Recognition/tree/master/ps2_code)  Fundamental Matrix Estimation, Image Rectification, Affine Structure from Motion,
           Structure From Motion
