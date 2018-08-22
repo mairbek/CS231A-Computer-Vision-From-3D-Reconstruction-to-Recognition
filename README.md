@@ -8,3 +8,7 @@
   
   3. [hw2](https://github.com/philiphzcx/CS231A-Computer-Vision-From-3D-Reconstruction-to-Recognition/tree/master/ps2_code)  Fundamental Matrix Estimation, Image Rectification, Affine Structure from Motion,
           Structure From Motion
+  
+  4. [hw3](https://github.com/philiphzcx/CS231A-Computer-Vision-From-3D-Reconstruction-to-Recognition/tree/master/ps3_code)  space carving, SIFT(single object recongnition), HOG
+
+  5. [hw4](https://github.com/philiphzcx/CS231A-Computer-Vision-From-3D-Reconstruction-to-Recognition/tree/master/ps4_code)  segmentation: kmeans, meanshift
